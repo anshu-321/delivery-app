@@ -30,13 +30,15 @@
   font-size: 1vw;
 }
 
-.header-contents button {
+.header-contents a {
   border: none;
   color: darkcyan;
   font-weight: 500;
   padding: 1vw 2.3vw;
   font-size: max(1vw, 13px);
   border-radius: 50px;
+  border: 1px solid darkcyan;
+  background-color: white;
   cursor: pointer;
 }
 
