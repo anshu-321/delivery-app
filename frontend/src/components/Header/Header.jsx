@@ -5,8 +5,11 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header-contents">
-        <h2>Order Your Favourite Food Here</h2>
-        <p>Choosing a diverse menu featuring a delectable array of dishes</p>
+        <h2>Your Search For Local Food Online Ends Here</h2>
+        <p>
+          Choosing a diverse menu featuring a delectable array of dishes , from
+          your favourite local restaurant , now Online{" "}
+        </p>
         <a className="btn" href="#explore-menu">
           View Menu
         </a>
